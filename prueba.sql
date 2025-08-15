@@ -1,0 +1,1 @@
+select * from clientes where CODIGO_RAPIDO LIKE '%00017%';
